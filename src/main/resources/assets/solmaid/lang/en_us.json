@@ -1,0 +1,7 @@
+{
+  "tooltip.maidbeacon.jade_maid.beacon_level" : "Beacon Level: %s",
+  "tooltip.maidbeacon.jade_maid.itemstack_to_upgrade" : "Use %s while pressing shift to upgrade beacon level",
+  "config.maidbeacon.server.effect_auras" : "Effect auras",
+  "config.maidbeacon.server.itemstack" : "ItemStacks required to upgrade maids' beacon level",
+  "config.maidbeacon.server.beacon_cost" : "Max cost to use in specific beacon level"
+}
