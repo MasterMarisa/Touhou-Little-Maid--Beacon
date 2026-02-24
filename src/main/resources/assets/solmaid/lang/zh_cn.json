@@ -1,7 +1,0 @@
-{
-  "tooltip.maidbeacon.jade_maid.beacon_level" : "信标等级： %s",
-  "tooltip.maidbeacon.jade_maid.itemstack_to_upgrade" : "潜行时使用 %s 以升级信标等级",
-  "config.maidbeacon.server.effect_auras" : "光环效果列表",
-  "config.maidbeacon.server.itemstack" : "升级女仆信标等级所需的物品",
-  "config.maidbeacon.server.beacon_cost" : "在对应等级能使用的最大Cost"
-}

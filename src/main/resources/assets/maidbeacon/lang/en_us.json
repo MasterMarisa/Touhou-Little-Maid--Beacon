@@ -1,0 +1,15 @@
+{
+  "jade.maidbeacon.tooltip.beacon_level" : "Beacon Level: %s",
+  "jade.maidbeacon.tooltip.itemstack_to_upgrade" : "Material Required To Upgrade Beacon:  %s",
+  "gui.maidbeacon.tooltip.range" : "Affect Range: %s",
+  "config.maidbeacon.server.effect_auras" : "Effect Auras.",
+  "config.maidbeacon.server.beacon_cost" : "Max Cost To Use In Specific Beacon Level.",
+  "config.maidbeacon.server.itemstack" : "Material Required To Upgrade Beacon Level.",
+  "config.maidbeacon.server.effect_check_interval" : "Beacon Effect Application Interval. (Note: This value only impacts performance and how quickly effects respond when entities enter/exit the range. It will not cause effects to expire prematurely or fail to reapply.)",
+  "config.maidbeacon.server.enable_beacon_range_rendering" : "Render Beacon Range Display (Particle Effect)",
+  "config.maidbeacon.server.whitelist" : "Affected Entity Types. (Supports register names. Also, tags with a \"#\" prefix is also supported. (e.g., \"#minecraft:animals\" to target all animals).)",
+  "config.maidbeacon.client.enable_beacon_rendering" : "Enable Beacon Rendering.",
+  "config.maidbeacon.client.enable_beacon_beam_rendering" : "Enable Beacon Beam Rendering.",
+  "config.maidbeacon.client.beacon_rendering_y_offset" : "Beacon Rendering Y Offset.",
+  "config.maidbeacon.client.beacon_rendering_y_offset_sitting" : "Beacon Rendering Y Offset While Maid In Sitting Pose."
+}

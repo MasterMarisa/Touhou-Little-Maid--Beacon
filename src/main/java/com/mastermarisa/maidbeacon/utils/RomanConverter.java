@@ -6,7 +6,7 @@ public class RomanConverter {
     private static final String[] TENS = {"", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XC"};
     private static final String[] UNITS = {"", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX"};
 
-    public static String intToRoman(int num) {
+    public static String toRoman(int num) {
         if (num < 1 || num > 3999) {
             return "Invalid";
         }
